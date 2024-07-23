@@ -1,2 +1,3 @@
-# bf2opendata
-Open data for login systems
+# BF2-Open-Data
+Open data for known login systems
+Player validation data
